@@ -1,9 +1,11 @@
 import streamlit as st
+
+st.set_page_config(layout="wide")
+
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-st.set_page_config(layout="wide")
 st.title("Bike Sharing Analysis Dashboard")
 
 df = pd.read_csv("dashboard/main_data.csv")
