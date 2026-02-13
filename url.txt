@@ -1,1 +1,1 @@
-https://bike-sharing-analysis-9fwcgvg32gp6ntzkgq28h6.streamlit.app/
+https://bike-sharing-analysis-lxupp7xcsugqzjlqgeujmp.streamlit.app/
