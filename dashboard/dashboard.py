@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 st.title("Bike Sharing Analysis Dashboard")
 
-df = pd.read_csv("dashboard/main_data.csv")
+df = pd.read_csv("Submission Proyek Analisis Data/dashboard/main_data.csv")
 
 menu = st.selectbox("Pilih Analisis", 
                     ["Musim", "Cuaca", "Hari Kerja"])
